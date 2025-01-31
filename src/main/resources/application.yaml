@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: library-kata
+
+  jackson:
+    default-property-inclusion: non_null
+
